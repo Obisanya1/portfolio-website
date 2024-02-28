@@ -1,9 +1,11 @@
 import React from 'react'
+import {Navbar, Hero} from './Components'
 
 const App = () => {
   return (
     <h1>
-     Portfolio 
+    <Navbar/>
+    <Hero/>
     </h1>
   )
 }
