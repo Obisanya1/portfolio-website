@@ -33,10 +33,10 @@ export const projects = [
   {
     id: nanoid(),
     img: 'https://images.pexels.com/photos/326503/pexels-photo-326503.jpeg?auto=compress&cs=tinysrgb&w=800',
-    url: 'https://react-projects.netlify.app/',
-    github: 'https://github.com/john-smilga',
-    title: 'first project',
-    text: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.',
+    url: 'https://academy.eopstudios.com/',
+    github: '#',
+    title: 'EOP Academy',
+    text: 'This website is for a renowned photographer in Nigeria. It showcases some of his work and also serves as a learning platform. Whether you are a photography enthusiast seeking inspiration or a beginner in search of resources, this website is your go-to platform',
   },
   {
     id: nanoid(),
